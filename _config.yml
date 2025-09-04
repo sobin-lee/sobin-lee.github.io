@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sobin Lee / Site Title"
+title                    : "Sobin Lee"
 title_separator          : "-"
 name                     : &name "Sobin Lee"
 description              : &description "personal description"
