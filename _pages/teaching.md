@@ -1,11 +1,8 @@
 ---
----
 title: "Teaching Experience"
-collection: teaching
 permalink: /teaching/
 author_profile: true
----
-
+layout: single
 ---
 
 ### Teaching Fellow, Boston University
