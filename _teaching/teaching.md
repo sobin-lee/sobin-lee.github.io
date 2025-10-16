@@ -2,8 +2,8 @@
 ---
 title: "Teaching Experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/teaching
+permalink: /teaching/
+author_profile: true
 ---
 
 ---
