@@ -14,8 +14,7 @@ I will be on the 2025-2026 job market and will be available for interviews.
 <details>
 <summary><strong>Abstract (click to expand)</strong></summary>
 
-This paper examines how targeted Medicaid reimbursement affects screening practices across payer types.  
-Using linked birth records and All-Payer Claims data from 2012–2019, I find that practices with greater pre-policy Medicaid exposure increased screening more after the policy, mainly among commercially insured patients—consistent with practice-wide adoption rather than payer-specific targeting. Physician movers’ behavior indicates that about two-thirds of physicians adjust their screening toward the norms of their new practice, showing that organizational systems play a key role in shaping provider behavior.
+This paper examines how targeted Medicaid reimbursement affects screening practices across payer types. In January 2014, Colorado Medicaid began reimbursing pediatric providers for postpartum depression (PPD) screening during infant well-child visits. Using linked birth records and All-Payer Claims data from 2012 to 2019, I find that practices with greater pre-policy Medicaid exposure increased screening more after the policy, primarily among commercially insured patients. Screening for Medicaid patients rose broadly across all practices, consistent with practice-wide adoption rather than payer-specific targeting. Leveraging physician moves across practices, I show that about two thirds of physicians adjust their screening behavior toward the norms of their new practice, indicating that organizational systems play a central role in shaping provider behavior. These findings show that payer-specific incentives can influence care delivery beyond the targeted payer through practice-level mechanisms.
 
 </details>
 
