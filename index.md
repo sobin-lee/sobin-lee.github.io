@@ -8,6 +8,8 @@ I am a PhD candidate in Economics at Boston University, specializing in health, 
 
 I will be on the 2025-2026 job market and will be available for interviews.
 
+Prior to my PhD, I completed a BA in Mathematical Economics at the University of Pennsylvania.
+
 ## Job Market Paper
 
 **Medicaid Spillovers on Commercially Insured Patients: Evidence from Postpartum Depression Screening**  
