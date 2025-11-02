@@ -9,11 +9,11 @@ related: false
 
 <h2 style="text-decoration: underline;">Published Papers</h2>
 
-**Medicaid Reimbursement for Maternal Depression Screening and Care for Postpartum Depression**  
+**[Medicaid Reimbursement for Maternal Depression Screening and Care for Postpartum Depression](https://jamanetwork-com.ezproxy.bu.edu/journals/jamapediatrics/fullarticle/2835438)**  
 *With Sarah Gordon, Nigel Deen, Megan Cole, Emily Feinberg, and Alison Galbraith*  
 *JAMA Pediatrics* (2025), Vol. 179(9), pp. 1009–1016.
 
-**Extended Postpartum Medicaid In Colorado Associated With Increased Treatment For Perinatal Mood And Anxiety Disorders**  
+**[Extended Postpartum Medicaid In Colorado Associated With Increased Treatment For Perinatal Mood And Anxiety Disorders](https://doi-org.ezproxy.bu.edu/10.1377/hlthaff.2023.01441)**  
 *With Sarah Gordon, Maria Steenland, Nigel Deen, and Emily Feinberg*  
 *Health Affairs* (2024)
 
@@ -21,7 +21,7 @@ related: false
 
 <h2 style="text-decoration: underline;">Working Papers</h2>
 
-**Medicaid Spillovers on Commercially Insured Patients: Evidence from Postpartum Depression Screening**  
+**[Medicaid Spillovers on Commercially Insured Patients: Evidence from Postpartum Depression Screening](/files/Lee_JMP_101725.pdf)**  
 September 2025. Job Market Paper.
 
 <br>
