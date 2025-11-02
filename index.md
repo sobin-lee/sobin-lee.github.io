@@ -20,5 +20,5 @@ This paper examines how targeted Medicaid reimbursement affects screening practi
 
 </details>
 
-[Download Job Market Paper (PDF)](/files/Lee_JMP_101725.pdf)
+[Download Job Market Paper (PDF)](/files/Lee_JMP.pdf)
 
