@@ -6,7 +6,7 @@ author_profile: true
 
 I am a PhD candidate in Economics at Boston University, specializing in health, labor, and public economics. My research examines how health policy and physician behavior influence patient outcomes . 
 
-I will be on the 2025-2026 job market and will be available for interviews.
+I am on the 2025-2026 job market and will be available for interviews.
 
 Prior to my PhD, I completed a BA in Mathematical Economics at the University of Pennsylvania.
 
