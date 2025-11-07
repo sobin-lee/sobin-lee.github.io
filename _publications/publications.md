@@ -27,6 +27,9 @@ September 2025. Job Market Paper.
 <br>
 
 ## Other Publications
+**[High Air Ambulance Charges Concentrated in Private Equity-owned Carriers](https://www.brookings.edu/articles/high-air-ambulance-charges-concentrated-in-private-equity-owned-carriers/)**  
+*With Loren Adler and Kathleen Hannick*  
+USC–Brookings Schaeffer Initiative for Health Policy (2020)
 
 **[Medicare Advanced Imaging Payment: Dysfunctional Policy Making](https://www.brookings.edu/articles/medicare-advanced-imaging-payment-dysfunctional-policy-making/)**  
 *With Bruce Steinwald, Paul B. Ginsburg, and Caitlin Brandt*  
